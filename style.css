@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding: 50px;
+}
+
+.search-container {
+    margin-bottom: 30px;
+}
+
+.cutting-line {
+    border: 1px dashed #ccc;
+    margin-bottom: 30px;
+}
+
+.form-inline .form-control {
+    width: 80%;
+    margin-right: 20px;
+}
+
